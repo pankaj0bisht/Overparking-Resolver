@@ -1,0 +1,13 @@
+TEAM ROLE MATRIX (MATCHES ORIGINAL PBL REPORT)
+
+1. Devashish Singh - Vehicle & Priority Module
+   Files: Vehicle.h, Vehicle.cpp
+
+2. Dhruv Rawat - Parking Slot & Block Module
+   Files: Parking.h, Parking.cpp
+
+3. Pankaj Bisht - Reservation & Overcrowding Resolver Module
+   Files: ReservationManager.h, ReservationManager.cpp, priority_queue.c, priority_queue.h
+
+4. Dev Kumar - Fine, Alert & Integration Module
+   Files: fine_bst.c, fine_bst.h, FineAlert.h, FineAlert.cpp, main.cpp

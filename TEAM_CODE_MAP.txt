@@ -1,0 +1,22 @@
+PROJECT CODE OWNERSHIP
+
+DEVASHISH SINGH - Vehicle & Priority
+  Vehicle.h
+  Vehicle.cpp
+
+DHRUV RAWAT - Parking Slot & Block
+  Parking.h
+  Parking.cpp
+
+PANKAJ BISHT - Reservation & Overcrowding Resolver
+  ReservationManager.h
+  ReservationManager.cpp
+  priority_queue.h
+  priority_queue.c
+
+DEV KUMAR - Fine, Alert & Integration
+  fine_bst.h
+  fine_bst.c
+  FineAlert.h
+  FineAlert.cpp
+  main.cpp
